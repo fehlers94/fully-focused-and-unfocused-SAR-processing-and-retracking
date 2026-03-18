@@ -1,0 +1,4 @@
+
+filename = 'S3A_SR_1_SRA_A__20211210T101721_20211210T110750_20220105T012443_3029_079_279______MAR_O_NT_004.SEN3.mat';
+
+%L2_files   = dir(fullfile(L2_dir,[mission,'*_SR_1_SRA_A*',orbit,'*']));
